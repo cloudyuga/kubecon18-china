@@ -7,8 +7,8 @@
 | ------------- |:-------------:| -----:|
 | Opening Keynote: Cloud Native in China - Dan Kohn, Executive Director, Cloud Native Computing Foundation | [Slides] |[Video] |
 | Keynote: Harbor - Henry Zhang, Technical Director & Alan Ren, General Manager, R & D, VMware | [Slides] |[Video] |
-| Keynote: Kubernetes and Other CNCF Projects Overview - Liz Rice, Technical Evangelist, Aqua Security & Janet Kuo, Software Engineer, Google | [Slides]() |[Video](https://www.youtube.com/watch?v=s40je2MMcJg&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=70&t=0s) |
-| Keynote: The Cloud Native Ecosystem in China - Tao Ma, Principal Engineer, Alibaba Cloud | [Slides]() |[Video](https://www.youtube.com/watch?v=azGyHoWJ81o&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=71&t=0s) |
+| Keynote: Kubernetes and Other CNCF Projects Overview - Liz Rice, Technical Evangelist, Aqua Security & Janet Kuo, Software Engineer, Google | [Slides] |[Video](https://www.youtube.com/watch?v=s40je2MMcJg&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=70&t=0s) |
+| Keynote: The Cloud Native Ecosystem in China - Tao Ma, Principal Engineer, Alibaba Cloud | [Slides] |[Video](https://www.youtube.com/watch?v=azGyHoWJ81o&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=71&t=0s) |
 | Keynote: Prometheus, Jaeger, and Envoy: The Observability for Today's Enterprises - Priyanka Sharma, Director of Cloud-Native Alliances, GitLab | [Slides] |[Video](https://www.youtube.com/watch?v=WwpjCVJDJzw&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=76&t=0s) |
 | Keynote: Closing Remarks - Janet Kuo, Software Engineer, Google | [Slides] |[Video](https://www.youtube.com/watch?v=blIt2jl0DW0&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=77&t=0s) |
 | Keynote: Welcome Messages - Liz Rice, Technical Evangelist, Aqua Security |[Slides]|[Video](https://www.youtube.com/watch?v=IKcnx9ClvPk&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=78&t=0s)|
@@ -195,12 +195,12 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:| 
-| Serverless Performance on a Budget - Erwin van Eyk, Platform9 | [Slides]() | [Video]() |
-| Serverless Workflow: Key to Wide Serverless Adoption - Cathy Zhang, Huawei | [Slides]() | [Video]() |
-| Serverless Computing for E-Commerce Applications on JD Kubernetes Platform - Yuan Chen & Xin Tong, JD.com | [Slides](https://schd.ws/hosted_files/kccncchina2018english/1d/KubeCon_Fibonacci_v8.pdf) | [Video]() |
-| Botless: A Serverless Chatbot Framework - Scott Nichols, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/8d/botless-framework.pdf) | [Video]() |
-| Serverless Kubernetes: Container in Cloud Native Way - Wei Zhang, Alibaba | [Slides]() | [Video]() |
-| Smart Workload: Automated Routing, Scaling of K8s and Serverless Functions - Enlin Xu, Turbonomic | [Slides](https://schd.ws/hosted_files/kccncchina2018english/8a/KubeCon_China_ppt_Enlin.pdf) | [Video]() |
+| Serverless Performance on a Budget - Erwin van Eyk, Platform9 | [Slides] | [Video](https://www.youtube.com/watch?v=l6-o0jIj6nk&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=5&t=0s) |
+| Serverless Workflow: Key to Wide Serverless Adoption - Cathy Zhang, Huawei | [Slides] | [Video](https://www.youtube.com/watch?v=015zaIk1g6o&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=4&t=0s) |
+| Serverless Computing for E-Commerce Applications on JD Kubernetes Platform - Yuan Chen & Xin Tong, JD.com | [Slides](https://schd.ws/hosted_files/kccncchina2018english/1d/KubeCon_Fibonacci_v8.pdf) | [Video](https://www.youtube.com/watch?v=ZF_Ymn4Aurw&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=3&t=0s) |
+| Botless: A Serverless Chatbot Framework - Scott Nichols, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/8d/botless-framework.pdf) | [Video](https://www.youtube.com/watch?v=erttH2WklS0&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=2&t=0s) |
+| Serverless Kubernetes: Container in Cloud Native Way - Wei Zhang, Alibaba | [Slides] | [Video](https://www.youtube.com/watch?v=Aa2uey4xDUk&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=7&t=0s) |
+| Smart Workload: Automated Routing, Scaling of K8s and Serverless Functions - Enlin Xu, Turbonomic | [Slides](https://schd.ws/hosted_files/kccncchina2018english/8a/KubeCon_China_ppt_Enlin.pdf) | [Video](https://www.youtube.com/watch?v=Pw9xCI4_cjE&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=6&t=0s) |
 
 ##  Service Mesh
 
