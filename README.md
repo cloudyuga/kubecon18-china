@@ -47,7 +47,6 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-
 | Using Kubernetes for Handling Second Screen Experience of European TV Show - Jan-Erik Revsbech & Thomas Hector, Peytz & Co | [Slides](https://schd.ws/hosted_files/kccncchina2018english/18/KubeCon%20-%20PDF%20Presentation.pdf) |[Video]() |
 | When Distributed Database Meets Cloud - Lessons Learned - Yanqing Weng, Pivotal | [Slides](https://schd.ws/hosted_files/kccncchina2018english/a4/When%20Distributed%20Database%20Meets%20Cloud%20-%20Lessons%20Learned%20.pdf) |[Video]() |
 | .Net Framework to .Net Core Microservices With Windows and Linux Containers - Hongxi Ma, Cloud To Go Inc. Ltd. | [Slides]() |[Video]() |
@@ -130,6 +129,29 @@
 | Machine Learning on Kubernetes Birds of a Feather - David Aronchick | [Slides]() |[Video]() |
 | Discovering the Untold User Stories of Kubernetes With Applied Anthropology - Hippie Hacker & Indigo Phillips, ii.coop | [Slides](https://schd.ws/hosted_files/kccncchina2018english/c3/APISnoop.pdf) |[Video]() |
 | Apache Spark on Kubernetes: A Technical Deep Dive - Yinan Li, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/f1/Apache%20Spark%20on%20Kubernetes_%20A%20Technical%20Deep%20Dive.pdf) | [Video]()|
+
+
+## Maintainers Track
+
+| Topic        | Presentation          | Video  |
+| ------------- |:-------------:| -----:|  
+| Intro: CNCF Interactive Landscape - Dan Kohn, Cloud Native Computing Foundation Intro: CNCF Storage WG - Xing Yang & Quinton Hoole, Huawei Intro: containerd - Derek McGowan, Docker & Mike Brown, IBM Intro: Fluentd - Eduardo Silva & Masahiro Nakagawa, Treasure Data Intro: SIG Service Catalog - Doug Davis & Jonathan Berkhahn, IBM | [Slides] | [Video](https://www.youtube.com/watch?v=v6h8NH3vvbo&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=62&t=0s)|
+| Intro: Harbor - Henry Zhang & Jia Zou, VMware Intro: Prometheus – Richard "RichiH" Hartmann, SpaceNet & Ben "SuperQ" Kochie, GitLab Intro: SIG Apps - Janet Kuo, Google Intro: SIG Cloud Provider - Andrew Sy Kim, DigitalOcean | [Slides](https://schd.ws/hosted_files/kccncchina2018english/1e/Intro_%20SIG%20Cloud%20Provider.pdf) | [Video](https://www.youtube.com/watch?v=YUS2m8RQ9nc&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=45&t=0s)|
+| Meet the Maintainer: Vitess – Adrianna Tan, PlanetScale | [Slides] | [Video]|
+| Intro: CNCF Serverless WG / CloudEvents - Doug Davis, IBM & Cathy Zhang, Huawei Intro: Kubernetes Policy WG - Zhipeng Huang & Hui Wang, Huawei Intro: Kubernetes SIG Multicluster - Quinton Hoole & Irfan Ur Rehman, Huawei Intro: Rook - Jared Watts, Upbound Intro: SAFE (A Cloud Native Security Working Group) - Liz Rice, Aqua Security | [Slides] | [Video](https://www.youtube.com/watch?v=n0QcZqUTnHg&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=46&t=0s)|
+| Meet the Maintainer: Vitess – Adrianna Tan, PlanetScale | [Slides]() | [Video]()|
+| Intro: Falco - Jorge Salamero Sanz, Sysdig Intro: Jaeger - Prithvi Raj Venkat Raj & Won Jun Jang, Uber Intro: Open Policy Agent - Torin Sandall, Styra Intro: SIG Autoscaling - Marcin Wielgus & Maciej Pytel, Google Intro: SIG Release - Tim Pepper, VMware | [Slides](https://schd.ws/hosted_files/kccncchina2018english/4f/OPAIntroduction.pdf) | [Video](https://www.youtube.com/watch?v=HoNSs6bz_1I&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=47&t=0s)|
+|  | [Slides]() | [Video]()|
+|  | [Slides]() | [Video]()|
+|  | [Slides]() | [Video]()|
+|  | [Slides]() | [Video]()|
+|  | [Slides]() | [Video]()|
+|  | [Slides]() | [Video]()|
+|  | [Slides]() | [Video]()|
+|  | [Slides]() | [Video]()|
+|  | [Slides]() | [Video]()|
+|  | [Slides]() | [Video]()|
+
 
 ## Observability
 
