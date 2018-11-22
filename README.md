@@ -271,9 +271,9 @@
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:| 
 | Container Networking Untangling Services Meshes and SDNs - Gregory Elkinbard, GSE Software | [Slides] | [Video](https://www.youtube.com/watch?v=FxxHDHhMdGA&index=53&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
-| How HP Uses Istio to Manage Network Traffic - Xi He & Zhoujian Zhang, HP | [Slides](https://schd.ws/hosted_files/kccncchina2018english/04/How%20HP%20uses%20Istio%20manage%20network%20traffic.pdf) | [Video]() |
-| Navigating the Service Mesh Ecosystem - George Miranda, Buoyant, Inc., & Diogenes Rittori, Pivotal | [Slides]() | [Video]() |
-| Mesher: The Practice of a Production-Level Service Mesh - Xiaoliang Tian, Huawei | [Slides]() | [Video]() |
-| Extending Istio - Develop a New Mixer Adapter for Your Monitoring Solution - Wen Tao Zhang & Yang Yang, IBM | [Slides](https://schd.ws/hosted_files/kccncchina2018english/a6/extending_istio_v1.pdf) | [Video]() |
-| Modern Service Networking With Consul Connect, Envoy and Kubernetes - Nic Jackson, HashiCorp | [Slides](https://schd.ws/hosted_files/kccncchina2018english/4d/Consul%20-%20Modern%20Service%20Networking%20%28KubeCon%29.pdf) | [Video]() |
+| How HP Uses Istio to Manage Network Traffic - Xi He & Zhoujian Zhang, HP | [Slides](https://schd.ws/hosted_files/kccncchina2018english/04/How%20HP%20uses%20Istio%20manage%20network%20traffic.pdf) | [Video] |
+| Navigating the Service Mesh Ecosystem - George Miranda, Buoyant, Inc., & Diogenes Rittori, Pivotal | [Slides] | [Video](https://www.youtube.com/watch?v=VQRpIYtLB4Q&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=60) |
+| Mesher: The Practice of a Production-Level Service Mesh - Xiaoliang Tian, Huawei | [Slides] | [Video] |
+| Extending Istio - Develop a New Mixer Adapter for Your Monitoring Solution - Wen Tao Zhang & Yang Yang, IBM | [Slides](https://schd.ws/hosted_files/kccncchina2018english/a6/extending_istio_v1.pdf) | [Video](https://www.youtube.com/watch?v=qqmY2WdKkgw&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=22) |
+| Modern Service Networking With Consul Connect, Envoy and Kubernetes - Nic Jackson, HashiCorp | [Slides](https://schd.ws/hosted_files/kccncchina2018english/4d/Consul%20-%20Modern%20Service%20Networking%20%28KubeCon%29.pdf) | [Video](https://www.youtube.com/watch?v=vt1Gk1jWfbc&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=52) |
 
