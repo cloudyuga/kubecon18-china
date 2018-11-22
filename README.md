@@ -5,9 +5,9 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Opening Keynote: Cloud Native in China - Dan Kohn, Executive Director, Cloud Native Computing Foundation | [Slides] |[Video] |
-| Keynote: Harbor - Henry Zhang, Technical Director & Alan Ren, General Manager, R & D, VMware | [Slides] |[Video] |
-| Keynote: Kubernetes and Other CNCF Projects Overview - Liz Rice, Technical Evangelist, Aqua Security & Janet Kuo, Software Engineer, Google | [Slides] |[Video](https://www.youtube.com/watch?v=s40je2MMcJg&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=70&t=0s) |
+| Opening Keynote: Cloud Native in China - Dan Kohn, Executive Director, Cloud Native Computing Foundation | [Slides] |[Video](https://www.youtube.com/watch?v=eZq8uhJU36Y&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=16) |
+| Keynote: Harbor - Henry Zhang, Technical Director & Alan Ren, General Manager, R & D, VMware | [Slides] |[Video](https://www.youtube.com/watch?v=f2U5wu0LBrg&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=17) |
+| Keynote: Kubernetes and Other CNCF Projects Overview - Liz Rice, Technical Evangelist, Aqua Security & Janet Kuo, Software Engineer, Google | [Slides] | [Video](https://www.youtube.com/watch?v=s40je2MMcJg&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=70&t=0s) |
 | Keynote: The Cloud Native Ecosystem in China - Tao Ma, Principal Engineer, Alibaba Cloud | [Slides] |[Video](https://www.youtube.com/watch?v=azGyHoWJ81o&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=71&t=0s) |
 | Keynote: Prometheus, Jaeger, and Envoy: The Observability for Today's Enterprises - Priyanka Sharma, Director of Cloud-Native Alliances, GitLab | [Slides] |[Video](https://www.youtube.com/watch?v=WwpjCVJDJzw&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=76&t=0s) |
 | Keynote: Closing Remarks - Janet Kuo, Software Engineer, Google | [Slides] | [Video](https://www.youtube.com/watch?v=blIt2jl0DW0&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=77&t=0s) |
@@ -29,43 +29,43 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Migrating Enterprise Microservices From Cloud Foundry to Kubernetes – Tony Erwin & Jonathan Schweikhart, IBM | [Slides](https://schd.ws/hosted_files/kccncchina2018english/b2/KubeCon_China_MigrationOfMicroservicesFromCFtoKube.pdf) |[Video]() |
-| Containerizing Java Applications for Kubernetes With Jib - Qingyang Chen & Appu Goundan, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/14/Jib%20Kubecon%202018%20Talk.pdf) |[Video]() |
-| Stop Hitting Yourself! - Michael Russell, Elastic | [Slides](https://schd.ws/hosted_files/kccncchina2018english/6b/KubeCon%20China%20-%20Michael%20Russell%20-%20Stop%20Hitting%20Yourself%21.pdf) |[Video]() |
-| Rust and Skaffold for Iterative Development on Kubernetes - Gastón Kleiman & Gilbert Song, Mesosphere | [Slides](https://schd.ws/hosted_files/kccncchina2018english/f3/KubeCon%20Shanghai%202018%20-%20Rust%20and%20Skaffold%20for%20Iterative%20Development%20on%20Kubernetes.pdf) |[Video]() |
-| Rage Against the API-Machinery: Writing an Operator for Production - Tom Manville, Kasten & Ilya Kislenko, Kasten | [Slides](https://schd.ws/hosted_files/kccncchina2018english/50/kubecon_Tom_Ilya_CRDs.pdf) |[Video]() |
-| Protecting Stateful Workloads With CSI Snapshot - Xing Yang, Huawei & Jing Xu, Google | [Slides]() |[Video]() |
-| Kustomize: Template-Free Configuration Customization for Kubernetes - Jeffrey Regan, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/c4/kubeconShanghai2018.pdf) |[Video]() |
-| From Containerized Application to Secure and Scaling With Kubernetes - Shikha Srivastava & Erica Brown, IBM | [Slides](https://schd.ws/hosted_files/kccncchina2018english/fd/KubeCon_Shanghai_2018_v2.pdf) |[Video]() |
-| Challenges and Solutions of Using Kubernetes for Blockchain Applications - Tong Li, IBM | [Slides](https://schd.ws/hosted_files/kccncchina2018english/d8/KubeConChina.pdf) |[Video]() |
-| Run Cluster Autoscaler on Your Own Cloud; or, Why Do We Need Cluster API? - Aleksandra Malinowska, Google | [Slides]() |[Video]() |
-| Running Blockchain as a Service on Kubernetes - Shan Yu, Alibaba Cloud | [Slides](https://schd.ws/hosted_files/kccncchina2018english/9d/KubeCon_Running%20BaaS%20on%20K8S_EN.pdf) |[Video]() |
-| Auto-Deployment of Ceph Cluster With Rook on Top of Kubernetes - Dennis Chen, Arm | [Slides](https://schd.ws/hosted_files/kccncchina2018english/a7/kubecon-audo-deployment-ceph-rook.pdf) |[Video]() |
+| Migrating Enterprise Microservices From Cloud Foundry to Kubernetes – Tony Erwin & Jonathan Schweikhart, IBM | [Slides](https://schd.ws/hosted_files/kccncchina2018english/b2/KubeCon_China_MigrationOfMicroservicesFromCFtoKube.pdf) |[Video](https://www.youtube.com/watch?v=d33W5Ks3-sM&index=30&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
+| Containerizing Java Applications for Kubernetes With Jib - Qingyang Chen & Appu Goundan, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/14/Jib%20Kubecon%202018%20Talk.pdf) |[Video](https://www.youtube.com/watch?v=ug3NqPcjjsk&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=33) |
+| Stop Hitting Yourself! - Michael Russell, Elastic | [Slides](https://schd.ws/hosted_files/kccncchina2018english/6b/KubeCon%20China%20-%20Michael%20Russell%20-%20Stop%20Hitting%20Yourself%21.pdf) | [Video](https://www.youtube.com/watch?v=6qkyxHIbFKk&index=31&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
+| Rust and Skaffold for Iterative Development on Kubernetes - Gastón Kleiman & Gilbert Song, Mesosphere | [Slides](https://schd.ws/hosted_files/kccncchina2018english/f3/KubeCon%20Shanghai%202018%20-%20Rust%20and%20Skaffold%20for%20Iterative%20Development%20on%20Kubernetes.pdf) |[Video](https://www.youtube.com/watch?v=9S1-69Rp1vQ&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=36) |
+| Rage Against the API-Machinery: Writing an Operator for Production - Tom Manville, Kasten & Ilya Kislenko, Kasten | [Slides](https://schd.ws/hosted_files/kccncchina2018english/50/kubecon_Tom_Ilya_CRDs.pdf) |[Video](https://www.youtube.com/watch?v=GvPglb8hlvY&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=27) |
+| Protecting Stateful Workloads With CSI Snapshot - Xing Yang, Huawei & Jing Xu, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/d0/2018%20KubeCon%20Shanghai%20-%20K8S%20Snapshot%20-%20Final.pdf) |[Video](https://www.youtube.com/watch?v=kOJ3qnTen3Q&index=34&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
+| Kustomize: Template-Free Configuration Customization for Kubernetes - Jeffrey Regan, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/c4/kubeconShanghai2018.pdf) |[Video](https://www.youtube.com/watch?v=EZ7kxa2GKYQ&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=97) |
+| From Containerized Application to Secure and Scaling With Kubernetes - Shikha Srivastava & Erica Brown, IBM | [Slides](https://schd.ws/hosted_files/kccncchina2018english/fd/KubeCon_Shanghai_2018_v2.pdf) |[Video](https://www.youtube.com/watch?v=elAe4e3L5Sw&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=127) |
+| Challenges and Solutions of Using Kubernetes for Blockchain Applications - Tong Li, IBM | [Slides](https://schd.ws/hosted_files/kccncchina2018english/d8/KubeConChina.pdf) |[Video](https://www.youtube.com/watch?v=mnomqYXcLNk&index=99&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
+| Run Cluster Autoscaler on Your Own Cloud; or, Why Do We Need Cluster API? - Aleksandra Malinowska, Google | [Slides] |[Video](https://www.youtube.com/watch?v=bhm8_-zpqw8&index=98&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
+| Running Blockchain as a Service on Kubernetes - Shan Yu, Alibaba Cloud | [Slides](https://schd.ws/hosted_files/kccncchina2018english/9d/KubeCon_Running%20BaaS%20on%20K8S_EN.pdf) | [Video](https://www.youtube.com/watch?v=MPQmszKKaWQ&index=102&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
+| Auto-Deployment of Ceph Cluster With Rook on Top of Kubernetes - Dennis Chen, Arm | [Slides](https://schd.ws/hosted_files/kccncchina2018english/a7/kubecon-audo-deployment-ceph-rook.pdf) | [Video] |
 
 
 ## Case Studies 
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Using Kubernetes for Handling Second Screen Experience of European TV Show - Jan-Erik Revsbech & Thomas Hector, Peytz & Co | [Slides](https://schd.ws/hosted_files/kccncchina2018english/18/KubeCon%20-%20PDF%20Presentation.pdf) |[Video]() |
-| When Distributed Database Meets Cloud - Lessons Learned - Yanqing Weng, Pivotal | [Slides](https://schd.ws/hosted_files/kccncchina2018english/a4/When%20Distributed%20Database%20Meets%20Cloud%20-%20Lessons%20Learned%20.pdf) |[Video]() |
-| .Net Framework to .Net Core Microservices With Windows and Linux Containers - Hongxi Ma, Cloud To Go Inc. Ltd. | [Slides]() |[Video]() |
-| Istio in Production: Real Customers, Real Solutions - Craig Box, Google | [Slides]() |[Video]() |
-| Running Vitess on Kubernetes at Massive Scale: JD.com Case Study - Jiten Vaidya, PlanetScale & Xin Lv, JD.com | [Slides](https://schd.ws/hosted_files/kccncchina2018english/97/Shanghai%20Kubecon%20%281%29.pdf) |[Video]() |
-| PetroChina: Big Oil’s Information System on Cloud Native Technology – Hui Chi, PetroChina & Kai Chen, Alauda | [Slides](https://schd.ws/hosted_files/kccncchina2018english/8c/%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E4%B8%8EKubernetes%2C%20Microservice%20%26%20DevOps%E5%85%B1%E8%88%9E1114%E6%9C%80%E7%BB%88%E7%89%88.pdf) |[Video]() |
-| From Mesos to Kubernetes - Yin Sun, Xiaomi Inc. | [Slides]() |[Video]() |
-| Kubernetes on Supporting 1 Million Bike-Taxi Drivers in Indonesia - Giri Kuncoro & Iqbal Farabi, GO-JEK | [Slides]() |[Video]() |
+| Using Kubernetes for Handling Second Screen Experience of European TV Show - Jan-Erik Revsbech & Thomas Hector, Peytz & Co | [Slides](https://schd.ws/hosted_files/kccncchina2018english/18/KubeCon%20-%20PDF%20Presentation.pdf) |[Video](https://www.youtube.com/watch?v=zyRfC-_DqsI&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=65) |
+| When Distributed Database Meets Cloud - Lessons Learned - Yanqing Weng, Pivotal | [Slides](https://schd.ws/hosted_files/kccncchina2018english/a4/When%20Distributed%20Database%20Meets%20Cloud%20-%20Lessons%20Learned%20.pdf) |[Video](https://www.youtube.com/watch?v=9zfPUFJ0j-0&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=66) |
+| .Net Framework to .Net Core Microservices With Windows and Linux Containers - Hongxi Ma, Cloud To Go Inc. Ltd. | [Slides] |[Video](https://www.youtube.com/watch?v=_glNKwRehx0&index=143&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
+| Istio in Production: Real Customers, Real Solutions - Craig Box, Google | [Slides] |[Video](https://www.youtube.com/watch?v=cV6JFq8XNZQ&index=139&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
+| Running Vitess on Kubernetes at Massive Scale: JD.com Case Study - Jiten Vaidya, PlanetScale & Xin Lv, JD.com | [Slides](https://schd.ws/hosted_files/kccncchina2018english/97/Shanghai%20Kubecon%20%281%29.pdf) |[Video](https://www.youtube.com/watch?v=I5g4EEJhRWQ&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=136) |
+| PetroChina: Big Oil’s Information System on Cloud Native Technology – Hui Chi, PetroChina & Kai Chen, Alauda | [Slides](https://schd.ws/hosted_files/kccncchina2018english/8c/%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E4%B8%8EKubernetes%2C%20Microservice%20%26%20DevOps%E5%85%B1%E8%88%9E1114%E6%9C%80%E7%BB%88%E7%89%88.pdf) |[Video](https://www.youtube.com/watch?v=-ecjnLppGC8&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=133) |
+| From Mesos to Kubernetes - Yin Sun, Xiaomi Inc. | [Slides] |[Video](https://www.youtube.com/watch?v=hU86Spqa7-g&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=130) |
+| Kubernetes on Supporting 1 Million Bike-Taxi Drivers in Indonesia - Giri Kuncoro & Iqbal Farabi, GO-JEK | [Slides](https://schd.ws/hosted_files/kccncchina2018english/a0/Kubernetes%20on%20Supporting%201%20Million%20Bike-Taxi%20Drivers%20in%20Indonesia.pdf) |[Video](https://www.youtube.com/watch?v=7mIM-6gQ3fo&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=128) |
 
 ## CI/CD 
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Kubernetes Native DevOps Practice - Lei Wang, TenxCloud | [Slides](https://schd.ws/hosted_files/kccncchina2018english/04/CNCF_TenxCloud_Kubernetes_Native_DevOps_Practice_v1.2.pdf) |[Video]() |
-| Testing Kubernetes CRDs - Christie Wilson, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/3b/Testing%20CRDs.pdf) |[Video]() |
-| Securing the Perimeter - CFCR/CFAR Chain of Custody With CI/CD Pipelines - Keith Strini & Shaozhen Ding, Pivotal | [Slides](https://schd.ws/hosted_files/kccncchina2018english/b2/Securing_the_Perimeter_KubeCon_China.pdf) |[Video]() |
-| Kubernetes CICD Hacks with MicroK8s and Kubeflow - Land Lu & Zhang Lei Mao, Canonical | [Slides](https://schd.ws/hosted_files/kccncchina2018english/0a/Kubecon%20Shanghai%20-%20CICD%20Hacks_Canonical.pdf) |[Video]() |
-| Compliance as Code - Lessons Learned From Regulated Organizations - Sergiu Bodiu, Standard Chartered | [Slides](https://schd.ws/hosted_files/kccncchina2018english/5c/Compliance%20as%20Code%20-%20Lessons%20Learned%20from%20Regulated%20Organizations.pdf) |[Video]() |
-| Let Developers and Operators Focus on What They Know Best - Rafal Gajdulewicz & Julie Zhuying Li, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/43/KubeConShanghai_Draft.pdf) |[Video]() |
+| Kubernetes Native DevOps Practice - Lei Wang, TenxCloud | [Slides](https://schd.ws/hosted_files/kccncchina2018english/04/CNCF_TenxCloud_Kubernetes_Native_DevOps_Practice_v1.2.pdf) |[Video] |
+| Testing Kubernetes CRDs - Christie Wilson, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/3b/Testing%20CRDs.pdf) |[Video](https://www.youtube.com/watch?v=T4EB0KB1-fc&index=56&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
+| Securing the Perimeter - CFCR/CFAR Chain of Custody With CI/CD Pipelines - Keith Strini & Shaozhen Ding, Pivotal | [Slides](https://schd.ws/hosted_files/kccncchina2018english/b2/Securing_the_Perimeter_KubeCon_China.pdf) |[Video](https://www.youtube.com/watch?v=G-L8Ovsonok&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=55) |
+| Kubernetes CICD Hacks with MicroK8s and Kubeflow - Land Lu & Zhang Lei Mao, Canonical | [Slides](https://schd.ws/hosted_files/kccncchina2018english/0a/Kubecon%20Shanghai%20-%20CICD%20Hacks_Canonical.pdf) |[Video] |
+| Compliance as Code - Lessons Learned From Regulated Organizations - Sergiu Bodiu, Standard Chartered | [Slides](https://schd.ws/hosted_files/kccncchina2018english/5c/Compliance%20as%20Code%20-%20Lessons%20Learned%20from%20Regulated%20Organizations.pdf) |[Video](https://www.youtube.com/watch?v=MI8iFuEHZiA&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=57) |
+| Let Developers and Operators Focus on What They Know Best - Rafal Gajdulewicz & Julie Zhuying Li, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/43/KubeConShanghai_Draft.pdf) |[Video](https://www.youtube.com/watch?v=yuKqLZTq6pk&index=89&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
 
 
 ##  Co-Located Event
@@ -83,7 +83,7 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
-| Deep Customized Kubernetes for Machine Learning in Tencent - Shengbo Song, Tencent | [Slides](https://schd.ws/hosted_files/kccncchina2018english/fc/KubeCon_China_ppt.pdf) |[Video]() |
+| Deep Customized Kubernetes for Machine Learning in Tencent - Shengbo Song, Tencent | [Slides](https://schd.ws/hosted_files/kccncchina2018english/fc/KubeCon_China_ppt.pdf) |[Video](https://www.youtube.com/watch?v=MrnWhRU8MrM&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=63) |
 | Managing Edge Nodes With “KubeEdge” - Yulin Sun & Li Xing, Huawei | [Slides]() |[Video]() |
 | Kubebuilder: SDK for Extending Kubernetes - Fan Zhang, VMware Inc & Mengqi Yu, Google | [Slides]() |[Video]() |
 | Managing and Securing Blockchain Applications on Kubernetes - Haining Zhang & Yang Yu, Vmware | [Slides]() |[Video]() |
