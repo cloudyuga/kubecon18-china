@@ -163,11 +163,36 @@
 | Intro: CNCF Cross-Cloud CI - W. Watson, Vulk | [Slides](https://schd.ws/hosted_files/kccncchina2018english/f6/KubeCon%20China%202018%20Cross-cloud%20CI%20Intro%20slides.pdf) | [Video](https://www.youtube.com/watch?v=_0I_A5f9UCk&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=49&t=0s)|
 | Intro: CNCF K8s-Conformance WG - Zefeng Wang, Huawei & Aaron Crickenberger, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/9d/CNCF-conformance-wg-intro.pdf) | [Video](https://www.youtube.com/watch?v=VferOM34OGw&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=46)|
 | Intro: SIG Testing - Jessie Zhu & Sen Lu, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/97/KubeCon%20China%20SIG%20Testing%20Intro%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=WFvC_VdkDFk&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=145)|
-| Intro: SIG VMware - Fabio Rapposelli & Steve Wong, VMware | [Slides]() | [Video](https://www.youtube.com/watch?v=5hp9St0NrwI&index=126&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
-|  | [Slides]() | [Video]()|
-|  | [Slides]() | [Video]()|
-|  | [Slides]() | [Video]()|
-|  | [Slides]() | [Video]()|
+| Intro: SIG VMware - Fabio Rapposelli & Steve Wong, VMware | [Slides](https://schd.ws/hosted_files/kccncchina2018english/cf/vmware-sig-intro-KubeCon_2018_NA_ppt-1.pdf) | [Video](https://www.youtube.com/watch?v=5hp9St0NrwI&index=126&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Deep Dive: CNCF Storage WG - Xing Yang & Quinton Hoole, Huawei  | [Slides](https://schd.ws/hosted_files/kccncchina2018english/b0/2018%20KubeCon%20Shanghai%20-%20Deep%20Dive%20-%20Storage%20WG%20-%20Final.pdf) | [Video](https://www.youtube.com/watch?v=2qoynPoDOdk&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=71) |
+| Deep Dive: Fluent Bit - Eduardo Silva & Masahiro Nakagawa, Treasure Data | [Slides] | [Video](https://www.youtube.com/watch?v=v46iUnAcKbA&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=118)|
+| Deep Dive: SIG Autoscaling - Marcin Wielgus & Maciej Pytel, Google | [Slides] | [Video](https://www.youtube.com/watch?v=Op-g6pO4A_I&index=78&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Deep Dive: SIG Service Catalog - Doug Davis & Jonathan Berkhahn, IBM | [Slides](https://schd.ws/hosted_files/kccncchina2018english/3e/SIG-ServiceCatalog-DeepDive.pdf) | [Video](https://www.youtube.com/watch?v=20ZkvPn4Nwg&index=120&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Intro: SIG PM (Kubernetes) - Ihor Dvoretskyi, Cloud Native Computing Foundation & Dustin Kirkland, Google | [Slides] | [Video](https://www.youtube.com/watch?v=zlZYg83Yd_8&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=142)| 
+| Deep Dive: Harbor - Daniel Jiang & Steven Zou, VMware | [Slides] | [Video](https://www.youtube.com/watch?v=b0GbtxtuDv8&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=74)|
+| Deep Dive: Prometheus – Richard "RichiH" Hartmann, SpaceNet & Ben "SuperQ" Kochie, GitLab | [Slides](https://schd.ws/hosted_files/kccncchina2018english/80/2018-11-15-Prometheus_Deep_Dive.pdf) | [Video](https://www.youtube.com/watch?v=z-g-hUnl9YU&index=68&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Deep Dive: SIG Apps - Janet Kuo, Google | [Slides]() | [Video](https://www.youtube.com/watch?v=wC51mBVo1u0&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=119)|
+| Deep Dive: SIG Cloud Provider - Andrew Sy Kim, DigitalOcean | [Slides](https://schd.ws/hosted_files/kccncchina2018english/05/Deep%20Dive_%20SIG%20Cloud%20Provider.pdf) | [Video](https://www.youtube.com/watch?v=TsljWxvQquU&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=122)|
+| Intro: SIG Cluster Lifecycle - Lucas Käldström, Independent; Di Xu, Ant Financial & Alexander Kanevskiy, Intel | [Slides](https://schd.ws/hosted_files/kccncchina2018english/5d/SIG%20Cluster%20Lifecycle%20Intro%20-%20KubeCon%20China%202018%20v1.0%20-%2020181115.pdf) | [Video](https://www.youtube.com/watch?v=925v4QmEGR8&index=140&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Meet the Maintainer: Prometheus - Ben Kochie, GitLab & Richard Hartmann, SpaceNet AG | [Slides]() | [Video]()|
+| Deep Dive: Jaeger - Prithvi Raj Venkat Raj & Won Jun Jang, Uber | [Slides](https://schd.ws/hosted_files/kccncchina2018english/28/KubeCon%20CN18%20Jaeger%20Deep%20Dive.pdf) | [Video](https://www.youtube.com/watch?v=B5v4UvO2hCs&index=121&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Deep Dive: Kubernetes Policy WG - Torin Sandall, Styra & Da Ma, Zhipeng Huang, Huawei | [Slides] | [Video](https://www.youtube.com/watch?v=SPsVjLapkzQ&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=138)|
+| Deep Dive: Kubernetes SIG Multicluster - Quinton Hoole & Irfan Ur Rehman, Huawei | [Slides] | [Video](https://www.youtube.com/watch?v=_gfOURlrAKQ&index=72&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Deep Dive: Rook - Jared Watts, Upbound | [Slides](https://schd.ws/hosted_files/kccncchina2018english/b9/Rook%20Deep%20Dive%20Kubecon%20China%202018.pdf) | [Video](https://www.youtube.com/watch?v=9MQphnWAEY8&index=75&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Meet the Maintainer: Prometheus - Ben Kochie, GitLab & Richard Hartmann, SpaceNet AG | [Slides] | [Video]|
+| Deep Dive: CNCF Serverless WG / CloudEvents - Doug Davis, IBM & Clemens Vasters, Microsoft | [Slides](https://schd.ws/hosted_files/kccncchina2018english/cb/Serverless%20WG%20Deep-Dive%20Session%20-%20Shanghai%202018.pdf.pdf) | [Video](https://www.youtube.com/watch?v=K7sSw5IK2Zc&index=151&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Deep Dive: containerd - Derek McGowan, Docker & Mike Brown, IBM | [Slides] | [Video](https://www.youtube.com/watch?v=xJouQtsq32c&index=76&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Deep Dive: Falco - Jorge Salamero Sanz, Sysdig | [Slides] | [Video](https://www.youtube.com/watch?v=JQxtY0966xo&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=73)|
+| Deep Dive: gRPC - Yuxuan Li, Google | [Slides] | [Video](https://www.youtube.com/watch?v=vom_vLKfVkc&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=135)|
+| Deep Dive: SIG Release - Tim Pepper, VMware | [Slides](https://schd.ws/hosted_files/kccncchina2018english/5e/2018%20KubeCon%20China%20-%20SIG%20Release%20Deep%20Dive.pdf) | [Video]|
+| Deep Dive: CoreDNS - Yong Tang, Infoblox   | [Slides](https://schd.ws/hosted_files/kccncchina2018english/db/KubeCon%20-%20CoreDNS%20Deep%20Dive.pdf) | [Video](https://www.youtube.com/watch?v=Yj0cj2oymqY&index=152&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Deep Dive: Helm - Taylor Thomas, Microsoft | [Slides](https://schd.ws/hosted_files/kccncchina2018english/3e/Helm%203%20Deep%20Dive.pdf) | [Video](https://www.youtube.com/watch?v=8zLAD9Agr2g&index=132&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Deep Dive: SIG IBMCloud - Sahdev Zala & Guang Ya Liu, IBM  | [Slides] | [Video](https://www.youtube.com/watch?v=jzgyT63_Nss&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=124)|
+| Deep Dive: SIG Scheduling - Da Ma, IBM | [Slides] | [Video](https://www.youtube.com/watch?v=h9e7pukQhm8&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=77)|
+| Deep Dive: CNCF K8s-Conformance WG - Zefeng Wang, Huawei & Srinivas Brahmaroutu, IBM  | [Slides](https://schd.ws/hosted_files/kccncchina2018english/80/CNCF-conformance-wg-deepdive.pdf) | [Video](https://www.youtube.com/watch?v=4WrpvcW7qrA&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=123)|
+| Deep Dive: SIG Cluster Lifecycle - Di Xu, Ant Financial & Alexander Kanevskiy, Intel | [Slides](https://schd.ws/hosted_files/kccncchina2018english/f7/SIG%20Cluster%20Lifecycle%20Deep%20Dive%20-%20KubeCon%20China%202018.pdf) | [Video]|
+| Deep Dive: SIG VMware - Steve Wong & Hui Lou, VMware | [Slides](https://schd.ws/hosted_files/kccncchina2018english/b8/Kubernetes%20on%20vSphere%20Deep%20Dive%20KubeCon%20China%20VMware%20SIG.pdf) | [Video](https://www.youtube.com/watch?v=5hp9St0NrwI&index=126&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+
 
 
 ## Observability
