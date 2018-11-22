@@ -10,19 +10,19 @@
 | Keynote: Kubernetes and Other CNCF Projects Overview - Liz Rice, Technical Evangelist, Aqua Security & Janet Kuo, Software Engineer, Google | [Slides] |[Video](https://www.youtube.com/watch?v=s40je2MMcJg&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=70&t=0s) |
 | Keynote: The Cloud Native Ecosystem in China - Tao Ma, Principal Engineer, Alibaba Cloud | [Slides] |[Video](https://www.youtube.com/watch?v=azGyHoWJ81o&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=71&t=0s) |
 | Keynote: Prometheus, Jaeger, and Envoy: The Observability for Today's Enterprises - Priyanka Sharma, Director of Cloud-Native Alliances, GitLab | [Slides] |[Video](https://www.youtube.com/watch?v=WwpjCVJDJzw&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=76&t=0s) |
-| Keynote: Closing Remarks - Janet Kuo, Software Engineer, Google | [Slides] |[Video](https://www.youtube.com/watch?v=blIt2jl0DW0&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=77&t=0s) |
-| Keynote: Welcome Messages - Liz Rice, Technical Evangelist, Aqua Security |[Slides]|[Video](https://www.youtube.com/watch?v=IKcnx9ClvPk&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=78&t=0s)|
+| Keynote: Closing Remarks - Janet Kuo, Software Engineer, Google | [Slides] | [Video](https://www.youtube.com/watch?v=blIt2jl0DW0&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=77&t=0s) |
+| Keynote: Welcome Messages - Liz Rice, Technical Evangelist, Aqua Security | [Slides] | [Video](https://www.youtube.com/watch?v=IKcnx9ClvPk&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=78&t=0s)|
 | Keynote: Kubernetes Serverless Present and Serverless Future – Brendan Burns, Distinguished Engineer & Co-Founder of Kubernetes, Microsoft | [Slides] |[Video](https://www.youtube.com/watch?v=VfZ8y-4V6Yc&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=75&t=0s) |
-| Keynote: Delivering Renewable Energy with Kubernetes – Wei Zhang, VP Technology, Goldwind Smart Energy & Sheng Liang, CEO, Rancher Labs | [Slides]() |[Video]() |
+| Keynote: Delivering Renewable Energy with Kubernetes – Wei Zhang, VP Technology, Goldwind Smart Energy & Sheng Liang, CEO, Rancher Labs | [Slides] |[Video] |
 | Keynote: The Challenges of Funding Open Source Development: The Case for Open Governance and Enterprise Contributions - Todd Moore, Vice President of Open Technology, IBM | [Slides] |[Video](https://www.youtube.com/watch?v=3C3mS9Xfb3w&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=74&t=0s) |
 | Keynote: Closing Remarks - Liz Rice, Technical Evangelist, Aqua Security | [Slides] |[Video](https://www.youtube.com/watch?v=u-zoQkpk0wk&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=73&t=0s) |
 | Keynote: A Tale of Using Kubeflow to Make the Electricity Smarter in China – Julia Han, COO & Xin Zhang, CEO, Caicloud | [Slides] |[Video](https://www.youtube.com/watch?v=_Iprto2olzc&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=8&t=0s) |
 | Keynote: Expanding to Verticals, How Kubernetes Accelerates Cloud-Native Movement in Various Industries – Zhenqin (Alan) LIAO, Director of PaaS Product Dept, Cloud Business Unit, Huawei | [Slides] |[Video](https://www.youtube.com/watch?v=-3TZ_3cBZQw&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=9&t=0s) |
 | Keynote: Kubernetes as a Foundational Layer of Infrastructure – Vicki Cheung, Engineering Manager, Lyft | [Slides] |[Video](https://www.youtube.com/watch?v=d_tAAr0Q3VE&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=10&t=0s) |
-| Keynote: Cloud Native Best Practices In Tencent Architecture - Joezou, PaaS Product Center Director, Tencent Cloud | [Slides]() |[Video](https://www.youtube.com/watch?v=WVYeKDDWl-o&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=11&t=0s) |
+| Keynote: Cloud Native Best Practices In Tencent Architecture - Joezou, PaaS Product Center Director, Tencent Cloud | [Slides] |[Video](https://www.youtube.com/watch?v=WVYeKDDWl-o&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=11&t=0s) |
 | Keynote: Accelerating Genome Sequencing via Containers and Kubernetes – Chao Wang, CTO, X-Turing & Anni Lai, Head of Global Business Development, VP of Strategy & Business Development, Huawei & Governing Board... | [Slides] |[Video](https://www.youtube.com/watch?v=pht4DqwfgHA&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=12&t=0s) |
 | Keynote: End User Awards - Chris Aniszczyk, CTO/COO, Cloud Native Computing Foundation | [Slides] |[Video](https://www.youtube.com/watch?v=mEr6DTYdhZY&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=13&t=0s) |
-| Keynote: Closing Remarks - Liz Rice, Technology Evangelist, Aqua Security & Janet Kuo, Software Engineer, Google | [Slides] |[Video](https://www.youtube.com/watch?v=k9JuZGcAALU&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=14&t=0s) |
+| Keynote: Closing Remarks - Liz Rice, Technology Evangelist, Aqua Security & Janet Kuo, Software Engineer, Google | [Slides] |[Video] |
 
 
 ## Application and Development
