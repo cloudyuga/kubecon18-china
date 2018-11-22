@@ -135,18 +135,35 @@
 
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|  
-| Intro: CNCF Interactive Landscape - Dan Kohn, Cloud Native Computing Foundation Intro: CNCF Storage WG - Xing Yang & Quinton Hoole, Huawei Intro: containerd - Derek McGowan, Docker & Mike Brown, IBM Intro: Fluentd - Eduardo Silva & Masahiro Nakagawa, Treasure Data Intro: SIG Service Catalog - Doug Davis & Jonathan Berkhahn, IBM | [Slides] | [Video](https://www.youtube.com/watch?v=v6h8NH3vvbo&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=62&t=0s)|
-| Intro: Harbor - Henry Zhang & Jia Zou, VMware Intro: Prometheus – Richard "RichiH" Hartmann, SpaceNet & Ben "SuperQ" Kochie, GitLab Intro: SIG Apps - Janet Kuo, Google Intro: SIG Cloud Provider - Andrew Sy Kim, DigitalOcean | [Slides](https://schd.ws/hosted_files/kccncchina2018english/1e/Intro_%20SIG%20Cloud%20Provider.pdf) | [Video](https://www.youtube.com/watch?v=YUS2m8RQ9nc&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=45&t=0s)|
+| Intro: CNCF Interactive Landscape - Dan Kohn, Cloud Native Computing Foundation | [Slides] | [Video](https://www.youtube.com/watch?v=v6h8NH3vvbo&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=32) |
+| Intro: CNCF Storage WG - Xing Yang & Quinton Hoole, Huawei | [Slides](https://schd.ws/hosted_files/kccncchina2018english/a7/2018%20KubeCon%20Shanghai%20-%20Intro%20-%20Storage%20WG%20-%20Final.pdf) | [Video] |
+| Intro: containerd - Derek McGowan, Docker & Mike Brown, IBM | [Slides](https://schd.ws/hosted_files/kccncchina2018english/a8/intro-slides.pdf) | [Video](https://www.youtube.com/watch?v=cwOGVrkdPkA&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=69) |
+| Intro: Fluentd - Eduardo Silva & Masahiro Nakagawa, Treasure Data | [Slides](https://schd.ws/hosted_files/kccncchina2018english/88/2018-11-14-Intro_to_Prometheus.pdf) | [Video](https://www.youtube.com/watch?v=NEGEy6mruR0&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=90)|
+| Intro: SIG Service Catalog - Doug Davis & Jonathan Berkhahn, IBM | [Slides](https://schd.ws/hosted_files/kccncchina2018english/68/SIG-ServiceCatalog-Intro.pdf) | [Video](https://www.youtube.com/watch?v=wWgyL51s8Js&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=50)|
+| Intro: Harbor - Henry Zhang & Jia Zou, VMware | [Slides] | [Video]|
+| Intro: Prometheus – Richard "RichiH" Hartmann, SpaceNet & Ben "SuperQ" Kochie, GitLab | [Slides](https://schd.ws/hosted_files/kccncchina2018english/88/2018-11-14-Intro_to_Prometheus.pdf) | [Video](https://www.youtube.com/watch?v=LSzyP_xfFRg&index=42&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
+| Intro: SIG Apps - Janet Kuo, Google Intro: SIG Cloud Provider - Andrew Sy Kim, DigitalOcean | [Slides](https://schd.ws/hosted_files/kccncchina2018english/6f/SIG%20Apps%20Introduction.pdf) | [Video](https://www.youtube.com/watch?v=f_bDFaN1jtU&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=150)| 
 | Meet the Maintainer: Vitess – Adrianna Tan, PlanetScale | [Slides] | [Video]|
-| Intro: CNCF Serverless WG / CloudEvents - Doug Davis, IBM & Cathy Zhang, Huawei Intro: Kubernetes Policy WG - Zhipeng Huang & Hui Wang, Huawei Intro: Kubernetes SIG Multicluster - Quinton Hoole & Irfan Ur Rehman, Huawei Intro: Rook - Jared Watts, Upbound Intro: SAFE (A Cloud Native Security Working Group) - Liz Rice, Aqua Security | [Slides] | [Video](https://www.youtube.com/watch?v=n0QcZqUTnHg&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=46&t=0s)|
-| Meet the Maintainer: Vitess – Adrianna Tan, PlanetScale | [Slides]() | [Video]()|
-| Intro: Falco - Jorge Salamero Sanz, Sysdig Intro: Jaeger - Prithvi Raj Venkat Raj & Won Jun Jang, Uber Intro: Open Policy Agent - Torin Sandall, Styra Intro: SIG Autoscaling - Marcin Wielgus & Maciej Pytel, Google Intro: SIG Release - Tim Pepper, VMware | [Slides](https://schd.ws/hosted_files/kccncchina2018english/4f/OPAIntroduction.pdf) | [Video](https://www.youtube.com/watch?v=HoNSs6bz_1I&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=47&t=0s)|
-|  | [Slides]() | [Video]()|
-|  | [Slides]() | [Video]()|
-|  | [Slides]() | [Video]()|
-|  | [Slides]() | [Video]()|
-|  | [Slides]() | [Video]()|
-|  | [Slides]() | [Video]()|
+| Intro: CNCF Serverless WG / CloudEvents - Doug Davis, IBM & Cathy Zhang, Huawei | [Slides](https://schd.ws/hosted_files/kccncchina2018english/f9/Serverless%20WG%20Intro%20Session%20-%20Shanghai%202018.pdf) | [Video](https://www.youtube.com/watch?v=n0QcZqUTnHg&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=48) |
+| Intro: Kubernetes Policy WG - Zhipeng Huang & Hui Wang, Huawei |  [Slides] | [Video]|
+| Intro: Kubernetes SIG Multicluster - Quinton Hoole & Irfan Ur Rehman, Huawei | [Slides] | [Video](https://www.youtube.com/watch?v=deaHZ2Rv3PI&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=40)
+| Intro: Rook - Jared Watts, Upbound | [Slides](https://schd.ws/hosted_files/kccncchina2018english/ce/Rook%20Intro%20-%20Kubecon%20China%202018.pdf) | [Video](https://www.youtube.com/watch?v=hjEq1n7Ow44&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=43) |
+| Intro: SAFE (A Cloud Native Security Working Group) - Liz Rice, Aqua Security | [Slides] | [Video](https://www.youtube.com/watch?v=Rdtp6fc9eR0&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=148)|
+| Meet the Maintainer: Vitess – Adrianna Tan, PlanetScale | [Slides]() | [Video]|
+| Intro: Falco - Jorge Salamero Sanz, Sysdig Intro: Jaeger - Prithvi Raj Venkat Raj & Won Jun Jang, Uber | [Slides] | [Video]|
+| Intro: Open Policy Agent - Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccncchina2018english/4f/OPAIntroduction.pdf) | [Video](https://www.youtube.com/watch?v=qFI04tksNBQ&index=125&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
+| Intro: SIG Autoscaling - Marcin Wielgus & Maciej Pytel, Google | [Slides]| [Video](https://www.youtube.com/watch?v=teDn7QpcxRw&index=44&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) 
+| Intro: SIG Release - Tim Pepper, VMware | [Slides](https://schd.ws/hosted_files/kccncchina2018english/05/2018%20KubeCon%20China%20-%20SIG%20Release%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=EzCNK1fsTFQ&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=147|
+| Meet the Maintainer: Fluentd / Fluent Bit - Eduardo Silva, Treasure Data Meet the Maintainer: Rook - Jared Watts, Upbound | [Slides]() | [Video]()|
+| Intro: CoreDNS - Yong Tang, Infoblox | [Slides](https://schd.ws/hosted_files/kccncchina2018english/7f/KubeCon%20-%20CoreDNS%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=0VQzo6CWVCU&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=146) | 
+| Intro: Helm - Taylor Thomas, Microsoft | [Slides](https://schd.ws/hosted_files/kccncchina2018english/95/Take%20the%20Helm.pdf) | [Video](https://www.youtube.com/watch?v=32Ohn_DnBjo&index=23&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
+| Intro: SIG IBMCloud - Sahdev Zala & Doug Davis, IBM  | [Slides] | [Video](https://www.youtube.com/watch?v=NhNFkagDH9s&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=51)|
+| Intro: SIG Scheduling - Da Ma, IBM | [Slides]() | [Video]|
+| Meet the Maintainer: Jaeger – Won Jun Jang, Uber | [Slides] | [Video]|
+| Intro: CNCF Cross-Cloud CI - W. Watson, Vulk | [Slides](https://schd.ws/hosted_files/kccncchina2018english/f6/KubeCon%20China%202018%20Cross-cloud%20CI%20Intro%20slides.pdf) | [Video](https://www.youtube.com/watch?v=_0I_A5f9UCk&list=PLj6h78yzYM2OfjgVxnn5gEm3D7w_9YYiG&index=49&t=0s)|
+| Intro: CNCF K8s-Conformance WG - Zefeng Wang, Huawei & Aaron Crickenberger, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/9d/CNCF-conformance-wg-intro.pdf) | [Video](https://www.youtube.com/watch?v=VferOM34OGw&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=46)|
+| Intro: SIG Testing - Jessie Zhu & Sen Lu, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/97/KubeCon%20China%20SIG%20Testing%20Intro%20%281%29.pdf) | [Video](https://www.youtube.com/watch?v=WFvC_VdkDFk&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=145)|
+| Intro: SIG VMware - Fabio Rapposelli & Steve Wong, VMware | [Slides]() | [Video](https://www.youtube.com/watch?v=5hp9St0NrwI&index=126&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs)|
 |  | [Slides]() | [Video]()|
 |  | [Slides]() | [Video]()|
 |  | [Slides]() | [Video]()|
