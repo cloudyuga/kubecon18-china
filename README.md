@@ -153,7 +153,7 @@
 | Intro: Falco - Jorge Salamero Sanz, Sysdig Intro: Jaeger - Prithvi Raj Venkat Raj & Won Jun Jang, Uber | [Slides] | [Video]|
 | Intro: Open Policy Agent - Torin Sandall, Styra | [Slides](https://schd.ws/hosted_files/kccncchina2018english/4f/OPAIntroduction.pdf) | [Video](https://www.youtube.com/watch?v=qFI04tksNBQ&index=125&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
 | Intro: SIG Autoscaling - Marcin Wielgus & Maciej Pytel, Google | [Slides]| [Video](https://www.youtube.com/watch?v=teDn7QpcxRw&index=44&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) 
-| Intro: SIG Release - Tim Pepper, VMware | [Slides](https://schd.ws/hosted_files/kccncchina2018english/05/2018%20KubeCon%20China%20-%20SIG%20Release%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=EzCNK1fsTFQ&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=147|
+| Intro: SIG Release - Tim Pepper, VMware | [Slides](https://schd.ws/hosted_files/kccncchina2018english/05/2018%20KubeCon%20China%20-%20SIG%20Release%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=EzCNK1fsTFQ&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=147)|
 | Meet the Maintainer: Fluentd / Fluent Bit - Eduardo Silva, Treasure Data Meet the Maintainer: Rook - Jared Watts, Upbound | [Slides]() | [Video]()|
 | Intro: CoreDNS - Yong Tang, Infoblox | [Slides](https://schd.ws/hosted_files/kccncchina2018english/7f/KubeCon%20-%20CoreDNS%20Intro.pdf) | [Video](https://www.youtube.com/watch?v=0VQzo6CWVCU&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs&index=146) | 
 | Intro: Helm - Taylor Thomas, Microsoft | [Slides](https://schd.ws/hosted_files/kccncchina2018english/95/Take%20the%20Helm.pdf) | [Video](https://www.youtube.com/watch?v=32Ohn_DnBjo&index=23&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
