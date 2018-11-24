@@ -68,16 +68,6 @@
 | Let Developers and Operators Focus on What They Know Best - Rafal Gajdulewicz & Julie Zhuying Li, Google | [Slides](https://schd.ws/hosted_files/kccncchina2018english/43/KubeConShanghai_Draft.pdf) |[Video](https://www.youtube.com/watch?v=yuKqLZTq6pk&index=89&list=PLj6h78yzYM2OK087kzLgc4jTPVbZjuNfs) |
 
 
-##  Co-Located Event
-
-| Topic        | Presentation          | Video  |
-| ------------- |:-------------:| -----:|
-| Crafting Diverse Apps, Alibaba Cloud K8s Playground《Kubernetes动手实践课堂》(Additional registration required) Clear Linux Workshop with Intel (Additional registration required) Cloud Foundry Day (Additional registration + fee required) Could Native Best Practices Day By CNBPA /Alauda (Additional registration required) Kubernetes Training by Caicloud (Additional registration + fee required) Kubernetes Workshop with VMware (Additional registration + fee required) Tungsten Fabric Workshop (Additional registration required) | [Slides]() |[Video]() |
-| Microsoft Serverless Day – Best Practices on Kubernetes (Additional registration required) | [Slides]() |[Video]() |
-| Contributor Summit Doc Sprint (Additional registration required) Kubernetes New Contributor Summit (Additional registration required) | [Slides]() |[Video]() |
-| Service Mesh Enterprise Summit – Rancher Labs & Huawei (Additional registration required) | [Slides]() |[Video]() |
-| CNCF Harbor China Community Reception & Award Ceremony (Additional registration required) | [Slides]() |[Video]() |
-
 
 ##  Customizing+Extending+Contributing
 
